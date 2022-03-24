@@ -10,6 +10,8 @@ import UIKit
 class ViewController: UIViewController {
     
     let a = "изменения коммит 1"
+    let b = "изменения коммит 2"
+
     
     override func viewDidLoad() {
         super.viewDidLoad()
